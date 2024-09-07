@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "7imc1 / Github"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "7im"
-  name             : "cy"
+  name             : "7imc1"
   pronouns         : # man"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "i will get juice"
   location         : "福建晋江"
   employer         : "福州大学"
   uri              : # URL

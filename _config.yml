@@ -12,7 +12,7 @@ title                    : "7imc1 / Github"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://7imc1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://7im.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
